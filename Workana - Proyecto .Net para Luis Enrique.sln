@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workana - Proyecto .Net para Luis Enrique", "Workana - Proyecto .Net para Luis Enrique\Workana - Proyecto .Net para Luis Enrique.csproj", "{94AF88BC-46EC-4118-8B75-5B8C872D6362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94AF88BC-46EC-4118-8B75-5B8C872D6362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AF88BC-46EC-4118-8B75-5B8C872D6362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AF88BC-46EC-4118-8B75-5B8C872D6362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AF88BC-46EC-4118-8B75-5B8C872D6362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB58202-8537-49EC-8A01-321881A54839}
+	EndGlobalSection
+EndGlobal
